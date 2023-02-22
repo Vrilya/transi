@@ -1,0 +1,1 @@
+put in install folder and run the game
